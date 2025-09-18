@@ -22,7 +22,7 @@ There are several ways of editing your application.
 
 
 
-Simply visit the (https://lovable.dev/projects/d6cdfd76-328b-4fd0-85dc-5da651e0a961) and start prompting.
+Simply visit the (https://dev/projects/d6cdfd76-328b-4fd0-85dc-5da651e0a961) and start prompting.
 
 **Use your preferred IDE**
 
